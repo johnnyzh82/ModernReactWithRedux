@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "testst",
+      "description": "11111",
+      "id": 1
+    },
+    {
+      "title": "asdfasdfasd",
+      "description": "fasdfasdfas",
+      "id": 2
+    },
+    {
+      "title": "New stream first one ",
+      "description": "this is made by me",
+      "userId": "116943132972016434880",
+      "id": 3
+    },
+    {
+      "title": "Implementing programmatic navigation",
+      "description": "lecture 355 talks about programmatic navigation",
+      "userId": "116943132972016434880",
+      "id": 4
+    },
+    {
+      "title": "Streaming reuse",
+      "description": "Watch me refactor create and edit stream",
+      "userId": "116943132972016434880",
+      "id": 5
+    }
+  ]
+}
